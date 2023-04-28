@@ -1,2 +1,2 @@
-# Tela-grafica-intuitiva
+# Tela-grafica-interativa
 Tela gráfica simples, usando Tkinter.
